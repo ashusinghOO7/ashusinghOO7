@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Ashutosh Kumar Singh</h1>
+<h3 align="center">A passionate Enthusiastic Programmer from India</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on Spring, Java, React<br>👯 I’m looking to collaborate on AI driven projects<br>🤝 I’m looking for help with Spring Framework<br>🌱 I’m currently learning Microservices<br>💬 Ask me about Java<br>⚡ Fun fact is that i am a mouse potato
 
